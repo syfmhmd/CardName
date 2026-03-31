@@ -1,0 +1,27 @@
+body{
+    background-color : #f4f4f4;
+}
+    
+.card {
+    width: 350px;
+    padding: 20px;
+    margin: 50px auto;
+    border-radius: 15px;
+    box-shadow: 0 0 5px black;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    border-radius: 20px;
+}
+
+button {
+    background-color: blue;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+}
